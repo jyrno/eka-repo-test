@@ -15,5 +15,9 @@ SIR ROBIN: Blue. No, yellow!
 
 [At Author, King of the Britons]
 GATEKEEPER: What is your name?
+KING ARTHUR: Arthur, King of the Britons.
 GATEKEEPER: What is your quest?
+KING ARTHUR: To find the holy grail!
 GATEKEEPER: What is the average airspeed velocity of an unladen swallow?
+KING ARTHUR: What? Do you mean an African or an European swallow?
+GATEKEEPER: I don't know that!
