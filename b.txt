@@ -1,6 +1,12 @@
 You must answer me these questions three,
 there the other side ye see.
 
+[At Sir Robin the Brave]
+1. What is your name?
+2. What is your quest?
+3. What is your favourite colour?
+
+[At Author, King of the Britons]
 1. What is your name?
 2. What is your quest?
 3. What is the average airspeed velocity of an unladen swallow?
